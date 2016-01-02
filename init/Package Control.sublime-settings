@@ -1,0 +1,32 @@
+{
+  "auto_upgrade_last_run": null,
+  "bootstrapped": true,
+  "installed_packages":
+  [
+    "BracketHighlighter",
+    "BufferScroll",
+    "Emmet",
+    "FTPSync",
+    "Git",
+    "Handlebars",
+    "HTML Mustache",
+    "HTML5",
+    "Package Control",
+    "SCSS",
+    "Search WordPress Codex or QueryPosts",
+    "SideBarEnhancements",
+    "Spotify",
+    "SublimeLinter",
+    "SublimeLinter-jshint",
+    "SublimeLinter-php",
+    "Syntax Highlighting for Sass",
+    "Theme - Soda",
+    "Varnish VCL",
+    "WordPress"
+  ],
+  "repositories":
+  [
+    "https://github.com/rmaksim/Sublime-Text-2-Inc-Dec-Value",
+    "https://github.com/n00ge/sublime-text-haml-sass"
+  ]
+}

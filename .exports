@@ -1,0 +1,16 @@
+# --- EXPORTS (& other stuff copied from dotfiles) ----------
+# Make subl the default editor
+export EDITOR="subl"
+
+# Compilation flags
+export ARCHFLAGS="-arch x86_64"
+
+# Prefer US English and UTF-8
+export LANG="en_US"
+export LC_ALL="en_US.UTF-8"
+
+# Always enable colored `grep` output
+export GREP_OPTIONS="--color=auto"
+
+# Link Homebrew casks in `/Applications` rather than `~/Applications`
+export HOMEBREW_CASK_OPTS="--appdir=/Applications --caskroom=/etc/Caskroom"

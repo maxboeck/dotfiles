@@ -1,0 +1,9 @@
+# --- PATH ------------------------------------
+# Customize to your needs...
+
+export PATH=/usr/local/bin:$PATH:/usr/bin:/bin:/usr/sbin:/sbin:$HOME/bin #all bins
+export PATH=$PATH:/Applications/MAMP/Library/bin #MAMP
+
+# The following exports are useful *if* you use the apps:
+# export PATH=$PATH:$HOME/.rvm/bin # Add RVM bin
+# export PATH=$PATH:/usr/local/opt/php54/bin # Add PHP54

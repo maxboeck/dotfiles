@@ -1,0 +1,38 @@
+update
+upgrade --all
+
+install coreutils
+install wget --enable-iri
+tap homebrew/dupes
+install homebrew/dupes/grep
+install ack
+install git
+install tree
+install gpg
+install openssl
+install optipng
+install node
+
+install caskroom/cask/brew-cask
+
+cask install alfred
+cask install atom
+cask install dropbox
+cask install google-chrome
+cask install gpgtools
+cask install transmit
+cask install firefox
+cask install flux
+cask install mamp
+cask install spotify
+cask install sizeup
+cask install flash
+cask install sublime-text3
+cask install virtualbox
+cask install sketch
+cask install vlc
+cask install skype
+cask install transmission
+cask install the-unarchiver
+
+cleanup
