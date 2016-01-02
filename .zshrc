@@ -19,7 +19,7 @@ unset file
 
 
 # --- ZSH COLOR SCHEME -----------------------
-BASE16_SHELL="$HOME/init/base16-shell/base16-tomorrow.dark.sh"
+BASE16_SHELL="$HOME/settings/base16-shell/base16-tomorrow.dark.sh"
 [[ -s $BASE16_SHELL ]] && source $BASE16_SHELL
 
 
