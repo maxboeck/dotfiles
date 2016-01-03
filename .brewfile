@@ -18,24 +18,25 @@ install caskroom/cask/brew-cask
 cask install alfred
 cask install atom
 cask install dropbox
+cask install firefox
+cask install flash
+cask install flux
+cask install fluid
 cask install google-chrome
 cask install gpgtools
-cask install transmit
-cask install firefox
-cask install flux
-cask install megasync
-cask install mamp
-cask install noizio
 cask install imageoptim
-cask install spotify
+cask install transmit
+cask install mamp
+cask install megasync
+cask install noizio
 cask install sizeup
-cask install flash
-cask install sublime-text3
-cask install virtualbox
 cask install sketch
-cask install vlc
 cask install skype
-cask install transmission
+cask install spotify
+cask install sublime-text3
 cask install the-unarchiver
+cask install transmission
+cask install virtualbox
+cask install vlc
 
 cleanup
