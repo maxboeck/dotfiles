@@ -23,7 +23,10 @@ cask install gpgtools
 cask install transmit
 cask install firefox
 cask install flux
+cask install megasync
 cask install mamp
+cask install noizio
+cask install imageoptim
 cask install spotify
 cask install sizeup
 cask install flash
