@@ -12,5 +12,8 @@ export LC_ALL="en_US.UTF-8"
 # Always enable colored `grep` output
 export GREP_OPTIONS="--color=auto"
 
+# SSH path
+export SSH_KEY_PATH="~/.ssh/"
+
 # Link Homebrew casks in `/Applications` rather than `~/Applications`
 export HOMEBREW_CASK_OPTS="--appdir=/Applications --caskroom=/etc/Caskroom"

@@ -56,6 +56,6 @@ COMPLETION_WAITING_DOTS="true"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # plugins=(git brew bundler capistrano cloudapp composer gem laravel npm rvm bower sublime)
-plugins=(git npm)
+plugins=(git)
 
 source $ZSH/oh-my-zsh.sh

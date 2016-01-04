@@ -15,7 +15,9 @@ install node
 
 install caskroom/cask/brew-cask
 
+cask install 0xed
 cask install alfred
+cask install android-file-transfer
 cask install atom
 cask install dropbox
 cask install firefox
