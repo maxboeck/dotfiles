@@ -1,3 +1,18 @@
+# NPM packages
+node_modules
+
+# Build Folders
+dist
+
+# Temporary files
+.tmp
+
+# Sass caches
+.sass-cache
+
+# Bower
+bower_components
+
 # Compiled Python files
 *.pyc
 
