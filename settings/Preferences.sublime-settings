@@ -1,16 +1,9 @@
 {
-  "color_scheme": "Packages/User/SublimeLinter/base16-tomorrow.dark (SL).tmTheme",
-  "fade_fold_buttons": false,
-  "font_face": "Menlo",
-  "font_size": 16.0,
   "bold_folder_labels": true,
-  "highlight_line": true,
-  "highlight_modified_tabs": true,
-  "hot_exit": false,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
+  "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+  "default_encoding": "UTF-8",
+  "default_line_ending": "unix",
+  "fade_fold_buttons": false,
   "file_exclude_patterns":
   [
     ".DS_Store",
@@ -26,16 +19,32 @@
     ".git",
     "node_modules"
   ],
-  "line_padding_bottom": 1.2,
-  "line_padding_top": 1.2,
+  "font_face": "Menlo",
+  "font_size": 17,
+  "hide_minimap": true,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "hot_exit": false,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "indent_guide_options":
+  [
+    "draw_normal",
+    "draw_active"
+  ],
+  "line_padding_bottom": 3,
+  "line_padding_top": 3,
   "match_brackets": true,
   "match_brackets_angle": true,
-  "remember_open_files": true,
-  "soda_folder_icons": false,
-  "tab_size": 2,
+  "material_theme_contrast_mode": true,
+  "material_theme_panel_separator": true,
+  "material_theme_tabs_separator": true,
+  "overlay_scroll_bars": "enabled",
+  "remember_open_files": false,
   "show_encoding": true,
-  "default_encoding": "UTF-8",
-  "default_line_ending": "unix",
-  "theme": "Soda Dark 3.sublime-theme",
+  "tab_size": 2,
+  "theme": "Material-Theme-Darker.sublime-theme",
   "translate_tabs_to_spaces": true
 }
